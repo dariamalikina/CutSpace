@@ -91,6 +91,7 @@ h1 {
 }
 
 h2 {
+  position: absolute;
   width: 614px;
   height: 245px;
   font-family: 'Poppins';
