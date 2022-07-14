@@ -110,6 +110,7 @@ h2 {
 }
 
 h3 {
+  position: absolute;
   width: 467px;
   height: 54px;
   position: absolute;
