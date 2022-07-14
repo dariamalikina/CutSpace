@@ -128,13 +128,15 @@ h3 {
 }
 
 .button {
+  position: absolute;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
   line-height: 24px;
   padding-top: 17px;
-  margin-top: -58px;
+  margin-top: -59px;
+  margin-left: 302px;
   color: #FFFFFF;
   text-align: center;
   float: right;
